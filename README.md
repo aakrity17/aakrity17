@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front End Stuffs, Python and JS
-- 🌱 I’m currently learning Python ,C Programming and Js.
+- 🔭 I’m currently working on Front End Stuffs
+- 🌱 I’m currently learning front end stuffs.
 - 👯 I’m looking to collaborate on Front End Projects...
 - 🤔 I’m looking for help with UI/UX Design/Develop...
 - 💬 Ask me about anything :) ...
