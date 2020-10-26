@@ -20,4 +20,4 @@
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aakrity17&layout=compact&theme=blue-green)](https://github.com/aakrity17)
 
-![VisitorCount](https://profile-counter.glitch.me/{aju100}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{aakrity17}/count.svg)
