@@ -12,7 +12,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aakrity17 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ashokcpg)
-[<img align="left" alt="aakrity17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ashokcpg)
-[<img align="left" alt="ashokcpg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://ashokcpg.com.np/linkedin)
+[<img align="left" alt="aakrity17 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/aakrity17)
+[<img align="left" alt="aakrity17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/aakrity17)
+[<img align="left" alt="aakrity17| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://aakrity.com.np/aakrity17)
+[<img align="left" alt="aakrity17| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://aakrity.com.np/aakrity17)
+
 <br />
+
+@@ -43,4 +44,4 @@
+
+### Mostly Used Languages:
+
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aakrity17g&layout=compact&theme=blue-green)](https://github.com/aakrity17)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aakrity17&layout=compact&theme=blue-green)](https://github.com/aakrity17)
