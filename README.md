@@ -21,3 +21,5 @@
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aakrity17&layout=compact&theme=blue-green)](https://github.com/aakrity17)
 
 ![VisitorCount](https://profile-counter.glitch.me/{aakrity17}/count.svg)
+
+<img src="https://github-profile-trophy.vercel.app/?username=aakrity17&theme=dracula&column=3&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)(https://github.com/ryo-ma/github-profile-trophy (https://github.com/ryo-ma/github-profile-trophy)">
