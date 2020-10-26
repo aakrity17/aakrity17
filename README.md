@@ -9,3 +9,10 @@
 - ![](https://komarev.com/ghpvc/?username=aakrity17&label=PROFILE+VIEWS&color=blue)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakrity17&show_icons=true&theme=tokyonight)
+
+### Connect with me:
+
+[<img align="left" alt="aakrity17 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ashokcpg)
+[<img align="left" alt="aakrity17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/ashokcpg)
+[<img align="left" alt="ashokcpg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://ashokcpg.com.np/linkedin)
+<br />
