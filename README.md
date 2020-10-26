@@ -18,5 +18,4 @@
 
 ### Mostly Used Languages:
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aakrity17g&layout=compact&theme=blue-green)](https://github.com/aakrity17)
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aakrity17&layout=compact&theme=blue-green)](https://github.com/aakrity17)
