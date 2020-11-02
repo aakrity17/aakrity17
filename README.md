@@ -1,6 +1,6 @@
 ![VisitorCount](https://profile-counter.glitch.me/{aakrity17}/count.svg)
 
-### Hi There, This is Aakrity Chapagai👋
+## Hi There, This is Aakrity Chapagai👋
 
 - 🔭 I’m currently working on Front End Stuffs
 - 🌱 I’m currently learning front end stuffs.
