@@ -11,9 +11,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aakrity17&theme=dracula&column=3&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)(https://github.com/ryo-ma/github-profile-trophy (https://github.com/ryo-ma/github-profile-trophy)">
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakrity17&show_icons=true&theme=tokyonight)
 
 ### Mostly Used Languages:
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=aakrity17&layout=compact&theme=blue-green)](https://github.com/aakrity17)
 
 
 ### Connect with me:
