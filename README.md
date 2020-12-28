@@ -8,8 +8,9 @@
 - 🤔 I’m looking for help with UI/UX Design/Develop...
 - 💬 Ask me about anything :) ...
 
-<img src="https://github-profile-trophy.vercel.app/?username=aakrity17&theme=dracula&column=3&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)(https://github.com/ryo-ma/github-profile-trophy (https://github.com/ryo-ma/github-profile-trophy)">
 
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakrity17&show_icons=true&theme=tokyonight)
 
 
 ### Mostly Used Languages:
